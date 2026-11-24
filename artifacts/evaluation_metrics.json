@@ -1,0 +1,62 @@
+[
+  {
+    "outcome": "Diabetic nephropathy",
+    "target_column": "Nephropathy_Risk",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "test_support": 800
+  },
+  {
+    "outcome": "Cardiovascular disease",
+    "target_column": "Cardiovascular_Risk",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "test_support": 800
+  },
+  {
+    "outcome": "Hepatic complications",
+    "target_column": "Hepatic_Risk",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "test_support": 800
+  },
+  {
+    "outcome": "Diabetic neuropathy",
+    "target_column": "Neuropathy_Risk",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "test_support": 800
+  },
+  {
+    "outcome": "Diabetic retinopathy",
+    "target_column": "Retinopathy_Risk",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "test_support": 800
+  },
+  {
+    "outcome": "Cerebrovascular disease",
+    "target_column": "Cerebrovascular_Risk",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "test_support": 800
+  }
+]
